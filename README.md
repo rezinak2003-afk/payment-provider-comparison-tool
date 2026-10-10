@@ -5,9 +5,9 @@ Build a repeatable, transparent first-pass scorecard for comparing hypothetical 
 
 ## Deliverables
 - `provider_comparison_tool.xlsx`: five-sheet workbook with a summary, formula-driven provider scorecard, editable criterion weights, action tracker, and scoring guide. Open in Excel or import into Google Sheets.
-- `data/illustrative_providers.csv`: same fictional scoring data in portable form.
-- `data/action_tracker_template.csv`: blank/seeded action tracker for a real assessment.
-- `automation/vendor_followup_reminder.gs`: optional Google Apps Script for draft reminder emails from an action tracker.
+- `illustrative_providers.csv`: same fictional scoring data in portable form.
+- `action_tracker_template.csv`: blank/seeded action tracker for a real assessment.
+- `vendor_followup_reminder.gs`: optional Google Apps Script for draft reminder emails from an action tracker.
 - `index.html`: browser-friendly project overview.
 
 ## How to use the workbook

@@ -1,0 +1,7 @@
+Initiative,Milestone,Owner,Due date (YYYY-MM-DD),Status,Priority,Dependency,Evidence/link,Notes
+Provider assessment,Confirm target countries and payment methods,,,Not Started,High,Product requirements,,
+Provider assessment,Request written pricing and settlement terms,,,Not Started,High,Provider shortlist,,
+Provider assessment,"Request SLA, uptime history and support escalation path",,,Not Started,High,Provider contact,,
+Provider assessment,"Review licensing, compliance and security documentation",,,Not Started,High,Compliance review,,
+Provider assessment,Run technical integration and certification review,,,Not Started,Medium,Engineering assessment,,
+Launch readiness,"Record decision, risks, owners and follow-up dates",,,Not Started,Medium,Completed provider assessment,,

@@ -1,0 +1,5 @@
+Provider,Cost fit (1-5),Geographic coverage (1-5),Uptime evidence (1-5),Support/SLA (1-5),Compliance readiness (1-5),Integration effort (1-5; higher=easier),Documentation quality (1-5),Evidence status,Evidence notes
+Provider A (fictional),4,3,4,3,4,4,3,Illustrative only; not a real provider,No external evidence; demo ratings
+Provider B (fictional),3,4,4,4,5,3,4,Illustrative only; not a real provider,No external evidence; demo ratings
+Provider C (fictional),5,2,3,2,3,5,3,Illustrative only; not a real provider,No external evidence; demo ratings
+Provider D (fictional),2,5,5,4,4,2,5,Illustrative only; not a real provider,No external evidence; demo ratings
